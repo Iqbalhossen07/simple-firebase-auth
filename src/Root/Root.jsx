@@ -1,8 +1,13 @@
 import React from 'react'
+import Header from '../components/Header/Header'
+import { Outlet } from 'react-router'
 
 function Root() {
   return (
-    <div>Root</div>
+      <div>
+          <Header></Header>
+          <Outlet></Outlet>
+    </div>
   )
 }
 
