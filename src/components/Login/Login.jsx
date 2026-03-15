@@ -165,7 +165,7 @@ function Login() {
                   <p className="text-xs text-gray-400 uppercase tracking-wider">
                     Rating
                   </p>
-                  <p className="font-semibold text-gray-700">4.9</p>
+                  <p className="font-semibold text-gray-700">5.0</p>
                 </div>
               </div>
 
