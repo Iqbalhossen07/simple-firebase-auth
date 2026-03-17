@@ -19,12 +19,12 @@ function Footer() {
           <p>
             ACME Industries Ltd.
             <br />
-            Providing reliable tech since 1992
+            Providing reliable tech since 2026
           </p>
         </aside>
         <nav>
-          <h6 className="footer-title">Services</h6>
-          <a className="link link-hover">Branding</a>
+          <h6 className="footer-title">Register</h6>
+          <a className="link link-hover">Login</a>
           <a className="link link-hover">Design</a>
           <a className="link link-hover">Marketing</a>
           <a className="link link-hover">Advertisement</a>

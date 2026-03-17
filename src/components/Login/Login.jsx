@@ -123,7 +123,7 @@ function Login() {
         <div className="flex justify-center items-center py-10">
           <div className="card w-96 bg-base-100 shadow-2xl border border-gray-200 overflow-hidden relative group">
             {/* কার্ডের উপরের ডেকোরেশন কালার */}
-            <div className="h-24 bg-gradient-to-r from-blue-500 to-purple-600"></div>
+            <div className="h-24 bg-linear-to-r from-blue-500 to-purple-600"></div>
 
             <div className="px-6 pb-6 pt-0 flex flex-col items-center">
               {/* প্রোফাইল পিকচার */}
